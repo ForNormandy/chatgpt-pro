@@ -136,7 +136,6 @@ export function SideBar(props: { className?: string }) {
           <ChatGptIcon />
         </div>
       </div>
-    </div>
 
       <div className={styles["sidebar-header-bar"]}>
         <IconButton
