@@ -126,7 +126,7 @@ export function SideBar(props: { className?: string }) {
         >
           请先前往卡网购买“镜像站专用Key”后在设置中填入使用
           {'\n\n'}
-          卡网AI小铺地址：https://faka.sk006.top/
+          卡网AI小铺地址：<a href="https://faka.sk006.top/" target="_blank" rel="noopener noreferrer">https://faka.sk006.top/</a>
           {'\n\n'}
           欢迎在卡网下单购买其他服务
           {'\n\n'}
