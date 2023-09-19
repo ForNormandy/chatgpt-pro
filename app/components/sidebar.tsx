@@ -122,14 +122,14 @@ export function SideBar(props: { className?: string }) {
         <div className={styles["sidebar-title"]}>ChatGPT 你的优秀私人助理</div>
         <div 
           className={styles["sidebar-sub-title"]} 
-          style={{ fontSize: '20px', lineHeight: '2', whiteSpace: 'pre-line' }}
+          style={{ fontSize: '16px', lineHeight: '2', whiteSpace: 'pre-line' }}
         >
           请先前往卡网购买“镜像站专用Key”后在设置中填入使用
-          {'\n\n'}
+          {'\n'}
           卡网AI小铺地址：<a href="https://faka.sk006.top/" target="_blank" rel="noopener noreferrer">https://faka.sk006.top/</a>
-          {'\n\n'}
+          {'\n'}
           欢迎在卡网下单购买其他服务
-          {'\n\n'}
+          {'\n'}
           如有疑问请添加微信：wZ2022oc
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
